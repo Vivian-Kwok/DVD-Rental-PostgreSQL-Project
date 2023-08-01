@@ -1,0 +1,2 @@
+SELECT DISTINCT city FROM city
+WHERE city LIKE'B%';

@@ -36,7 +36,11 @@ SELECT*FROM film
 WHERE LENGTH (description) BETWEEN 50 AND 80
 
 
+SELECT min(length) as minimum, max (length) as maximum, avg (length), STDDEV(length) FROM film;
 
+SELECT count (rating) FROM film
+
+SELECT count * FROM film
 
 
 

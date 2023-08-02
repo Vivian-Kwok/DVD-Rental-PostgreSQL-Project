@@ -1,4 +1,4 @@
-SELECT COUNT(country_id), country
-FROM country
-GROUP BY country
-ORDER BY COUNT(country_id) DESC;
+SELECT COUNT(address_id), district
+FROM address
+GROUP BY district
+ORDER BY COUNT(address_id) DESC;

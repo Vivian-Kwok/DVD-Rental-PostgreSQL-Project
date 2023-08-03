@@ -34,6 +34,8 @@ There are 15 tables in the DVD Rental database:
 
 2.Query02
 
+This SQL query retrieves unique combinations of first names and last names from the "actor" table, where the length of the last name is less than five characters. The results are ordered alphabetically by first name. This query is useful for obtaining a list of actors with short last names in ascending order of their first names.
+
 3.Query03
 
 4.Query04

@@ -29,6 +29,7 @@ There are 15 tables in the DVD Rental database:
 
 ## Data Analysis
 1. Query01
+   
    The SQL statement selects only the DISTINCT values with a Name starting with "B" from the "City" column in the "City" table.
 
 2.Query02
